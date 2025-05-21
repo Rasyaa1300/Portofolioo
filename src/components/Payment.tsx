@@ -18,9 +18,9 @@ export const Payment: React.FC = () => {
   const [copiedMethod, setCopiedMethod] = useState<string | null>(null);
 
   const paymentMethods: PaymentMethod[] = [
-    { name: 'Dana', code: '081234567890', icon: <Smartphone size={20} /> },
-    { name: 'OVO', code: '081234567890', icon: <Smartphone size={20} /> },
-    { name: 'Gopay', code: '081234567890', icon: <Smartphone size={20} /> },
+    { name: 'Dana', code: '085727264161', icon: <Smartphone size={20} /> },
+    { name: 'OVO', code: 'gada', icon: <Smartphone size={20} /> },
+    { name: 'Gopay', code: 'gada', icon: <Smartphone size={20} /> },
     { name: 'BCA', code: '1234567890', icon: <CreditCard size={20} /> },
   ];
 
