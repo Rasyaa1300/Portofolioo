@@ -139,7 +139,7 @@ export const Products: React.FC = () => {
                   </p>
                   
                   <a 
-                    href={`https://wa.me/6281234567890?text=Halo, saya tertarik dengan produk ${product.title}`}
+                    href={`https://wa.me/6285727264161?text=Halo, saya tertarik dengan produk ${product.title}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 text-white font-medium py-3 px-6 rounded-lg bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 transition-all duration-300 group-hover:shadow-lg"
